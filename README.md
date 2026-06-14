@@ -52,4 +52,4 @@ I hack autonomous systems while building resilient offline networks from Iran.
 ### Connect With Me
 - **LinkedIn**: [Ramtin Golbon](https://linkedin.com/in/ramtin-golbon)
 - **Telegram**: [@ramtin2204](https://t.me/ramtin2204)
-- **Email**: ramtin7318@gmail.com
+- **Email**: ramtingolbon83@gmail.com
