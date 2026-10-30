@@ -22,29 +22,55 @@ network doesn't.
 
 | Project | What it is | Stack | Status |
 |---|---|---|---|
-| [**Yalda**](https://github.com/ramtingolbon83/Yalda) | A Persian-speaking AI companion agent: tool-calling core with a persona, spoken replies, speech recognition and a React-based UI. Long-term goal: an assistant that listens, remembers and evolves. | Python, Piper TTS, faster-whisper, React/Vite | 🚧 Active |
-| **PersiaMesh** *(private)* | Decentralized mesh messenger prototype for communication without central infrastructure. End-to-end encryption with libsodium; currently a local Alice/Bob simulation, network layer next. | C++, libsodium | 🚧 Active |
-| **Kali Mind** *(private)* | Telegram bot for learning Kali Linux — planned: guided lessons, quizzes and help with common Kali errors. Early stage: command shortcuts and bot reactions are in place. | Python, Telegram Bot API | 🌱 Early stage |
-| [**Villajo**](https://github.com/ramtingolbon83/villajo-platform) | Villa & stay booking platform for Iran with secure payments and rewards. | Python / Django | 🚧 In development |
+| Kali Mind *(private)* | Telegram bot for learning Kali Linux — planned: guided lessons, quizzes and help with common Kali errors. Early stage: command shortcuts and bot reactions are in place. | Python, Telegram Bot API | 🌱 Early stage |
+| [Villajo](https://github.com/ramtingolbon83/villajo-platform) | Villa & stay booking platform for Iran with secure payments and rewards. | Python / Django | 🚧 In development |
 
 ## Experience
 
-- **Trainee, Metarang** (3 months) — Go microservices
+- Trainee, Metarang (3 months) — Go microservices
 
 ## Tech
 
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+
+
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+
+
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+
+
+
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+
+
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+
+
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+
+
+
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+
 
 ## Currently
 
-- 🗣️ Giving **Yalda** a voice interface and a proper UI
-- 🔐 Moving **PersiaMesh** from simulation to a real network layer
+- 🏗 Building Villajo, a villa booking platform with secure payments
+- 🐧 Building Kali Mind, a Telegram bot for learning Kali Linux
 - 📚 Studying network programming and applied cryptography
 
 ## Exploring
@@ -57,4 +83,3 @@ UAV & drone security · ROS · PX4 / ArduPilot · reverse engineering of embedde
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramtingolbon83/ramtingolbon83/output/github-snake-dark.svg">
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/ramtingolbon83/ramtingolbon83/output/github-snake.svg">
 </picture>
-
