@@ -69,8 +69,8 @@ network doesn't.
 
 ## Currently
 
-- 🏗 Building Villajo, a villa booking platform with secure payments
-- 🐧 Building Kali Mind, a Telegram bot for learning Kali Linux
+- 🗣 Giving Yalda a voice interface and a proper UI
+- 🔐 Moving PersiaMesh from simulation to a real network layer
 - 📚 Studying network programming and applied cryptography
 
 ## Exploring
