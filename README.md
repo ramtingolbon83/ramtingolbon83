@@ -22,8 +22,6 @@ network doesn't.
 
 | Project | What it is | Stack | Status |
 |---|---|---|---|
-| [Yalda](https://github.com/ramtingolbon83/Yalda) | A Persian-speaking AI companion agent: tool-calling core with a persona, spoken replies, speech recognition and a React-based UI. Long-term goal: an assistant that listens, remembers and evolves. | Python, Piper TTS, faster-whisper, React/Vite | 🚧 Active |
-| PersiaMesh *(private)* | Decentralized mesh messenger prototype for communication without central infrastructure. End-to-end encryption with libsodium; currently a local Alice/Bob simulation, network layer next. | C++, libsodium | 🚧 Active |
 | Kali Mind *(private)* | Telegram bot for learning Kali Linux — planned: guided lessons, quizzes and help with common Kali errors. Early stage: command shortcuts and bot reactions are in place. | Python, Telegram Bot API | 🌱 Early stage |
 | [Villajo](https://github.com/ramtingolbon83/villajo-platform) | Villa & stay booking platform for Iran with secure payments and rewards. | Python / Django | 🚧 In development |
 
