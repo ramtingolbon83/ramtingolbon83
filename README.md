@@ -22,6 +22,8 @@ network doesn't.
 
 | Project | What it is | Stack | Status |
 |---|---|---|---|
+| [Yalda](https://github.com/ramtingolbon83/Yalda) | A Persian-speaking AI companion agent: tool-calling core with a persona, spoken replies, speech recognition and a React-based UI. Long-term goal: an assistant that listens, remembers and evolves. | Python, Piper TTS, faster-whisper, React/Vite | 🚧 Active |
+| PersiaMesh *(private)* | Decentralized mesh messenger prototype for communication without central infrastructure. End-to-end encryption with libsodium; currently a local Alice/Bob simulation, network layer next. | C++, libsodium | 🚧 Active |
 | Kali Mind *(private)* | Telegram bot for learning Kali Linux — planned: guided lessons, quizzes and help with common Kali errors. Early stage: command shortcuts and bot reactions are in place. | Python, Telegram Bot API | 🌱 Early stage |
 | [Villajo](https://github.com/ramtingolbon83/villajo-platform) | Villa & stay booking platform for Iran with secure payments and rewards. | Python / Django | 🚧 In development |
 
@@ -31,41 +33,13 @@ network doesn't.
 
 ## Tech
 
-
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-
-
-
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-
-
-
-
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-
-
-
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-
-
-
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-
-
-
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-
-
-
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-
 
 ## Currently
 
